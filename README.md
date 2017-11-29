@@ -6,7 +6,7 @@ Basically, it will keep your controller monitoring for TABLE_FULL OpenFlow messa
 
 For more details and understanding of SIFT and Slow-TCAM attacks, please check my paper called "Slow-TCAM Exhaustion DDoS Attack" in IFIP SEC 2017 [1]:
 
-Pascoal, T. A., Dantas, Y. G., Fonseca, I. E., Nigam, V., 2017. "Slow TCAM Exhaustion DDoS Attack." In 32nd IFIP International Conference on ICT Systems Security and Privacy Protection, pp. 17-31. Springer, Cham, 2017.
+[1] Pascoal, T. A., Dantas, Y. G., Fonseca, I. E., Nigam, V., 2017. "Slow TCAM Exhaustion DDoS Attack." In 32nd IFIP International Conference on ICT Systems Security and Privacy Protection, pp. 17-31. Springer, Cham, 2017.
 
 ----------------------------------------------------------------------------------------------
 Files:
